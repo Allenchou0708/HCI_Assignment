@@ -10,5 +10,9 @@
 
 ## Demo Video
 
-* &nbsp;&nbsp;&nbsp;&nbsp;Hand Detection : https://youtu.be/_klVn0pZyog
-* &nbsp;&nbsp;&nbsp;&nbsp;Alexa Assistant : https://youtu.be/ooxtqv536DY, https://youtu.be/PxRIzPKX4ag, https://www.youtube.com/shorts/EhNNovJjYXA
+* Hand Detection : 
+  - https://youtu.be/_klVn0pZyog
+* Alexa Assistant : 
+  - https://youtu.be/ooxtqv536DY
+  - https://youtu.be/PxRIzPKX4ag
+  - https://www.youtube.com/shorts/EhNNovJjYXA
