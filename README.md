@@ -2,7 +2,7 @@
 
 ## What is this repository for
 
-<p>There are 3 assignments for HCI class, which is Hand Detection (with Python), Hand Writing Number Recognition(With Javascript and Web) and the experience of Alexa Assistant.<
+<p>There are 3 assignments for HCI class, which is Hand Detection (with Python), Hand Writing Number Recognition(With Javascript and Web) and the experience of Alexa Assistant.</p>
 
 ## How to Use it
   
