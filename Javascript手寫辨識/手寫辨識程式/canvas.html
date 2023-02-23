@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hand-writing Recognition (1 stroke to 0~1)</title>
+    <script src="canvas.js" ></script>
+    <link href="canvas.css" rel="stylesheet">
+    
+</head>
+<body style="margin:0px;">
+    <div class="top_justify">
+        <div class="left_box">
+            <canvas width="400px" height="400px" style="background-color: #7e7d7d;" id="my_canvas"></canvas>
+            <div class="option_div">
+                <span>See how does it work : </span>
+                <form id="my_form">
+                    <input type="checkbox" id="debug_or_not" name="debug_or_not" >
+                </form>
+                 
+            </div>
+        </div>
+        <div class="right_box">
+            <div class="vertical_align_box">
+                <div class="inline_text">
+                    <p class="text">Here is the shape you can draw to identify</p>
+                </div>
+                <div class="inline_photo">
+                    <img src="number_table.png" id="number_table">
+                </div>
+                <div class="inline_text">
+                    <p class="text">Draw it to the right grey section</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="information_div" id="information_div">
+        <div class="ans_card">
+            I think it is :   <span id="identify_ans" class="identify_focus">0</span>
+        </div>
+        <div class="ans_card">
+            With percentage :   <span id="identify_score" class="identify_focus">0.99</span>
+        </div>
+    </div>
+    
+    
+</body>
+</html>
